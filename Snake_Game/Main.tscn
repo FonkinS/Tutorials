@@ -10,5 +10,3 @@
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
 position = Vector2( 528.358, 248.293 )
-
-[node name="Apple" parent="." instance=ExtResource( 3 )]
